@@ -58,7 +58,7 @@
 ### 📂 In package.json:
 ```json
 "dependencies": {
-    ""@whiskeysockets/baileys": "github:xdking0/Malvin-Baileys"
+    "@whiskeysockets/baileys": "github:xdking0/Malvin-Baileys"
 }
 ```
 
