@@ -1,5 +1,5 @@
 {
-  "name": "@drayyy/XD-Baileys",
+  "name": "@xdking0/Malvin-Baileys",
   "version": "1.0.2",
   "description": "WhatsApp Beta",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/XdKing2/@sk/Malvin-Baileys",
+  "homepage": "https://github.com/xdking0/@sk/Malvin-Baileys",
   "repository": {
-    "url": "git@github.com:XdKing2/@sk/Malvin-Baileys.git"
+    "url": "git@github.com:xdking0/@sk/Malvin-Baileys.git"
   },
   "license": "MIT",
   "author": "MR Malvin",
